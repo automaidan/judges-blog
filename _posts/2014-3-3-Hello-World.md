@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Автомайдан через суд зобов'язав прокуратуру Києва розслідувати побиття тітушками людей біля скандальної забудови на Позняках 20 квітня 2016р.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Автомайданівці через суд зобов'язали прокуратуру м.Києва відкрити кримінальне провадження щодо побиття тітушками людей під час сутичок біля скандальної забудови на Позняках 20 квітня 2016р. за злочинної бездіяльності (а фактично змови із забудовником) присутніх на місці бійки "правоохоронців".
+Пам'ятаєте, як 20 квітня, на перетині вул. Здолбунівської та проспекту Григоренка, що на Позняках, сталася бійка між привезеними тітушками скандального київського забудовника від БПП В’ячеслава Непопа, що з 2002-го року очолює комунальне підприємство "Житлоінвест-УКБ", та громадськими активістами і просто небайдужими киянами, які не перший місяць захищали розташоване там озеро Качине від знищення забудовником, що з настанням тепла почав просто засипати його землею?
+Активісти Автомайдану також тоді були присутні під час сутичок.
+Наші тодішні пости з місця подій:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fautomaidan%2Fposts%2F1154486417896038&amp;width=400" width="400" height="660" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/images/logo.png)
+
+Дякую що були з нами. [А судді хто](https://prosud.info/)?
