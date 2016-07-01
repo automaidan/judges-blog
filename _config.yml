@@ -96,15 +96,6 @@ prose:
     - /_includes
   metadata:
     _posts:
-      - name: "published"
-        field:
-          value: "published"
-          placeholder: "Choose published or not"
-          element: "multiselect"
-            - name: "Published"
-              value: "true"
-            - name: "Unpublished"
-              value: "false"
       - name: "layout"
         field:
           element: "hidden"
