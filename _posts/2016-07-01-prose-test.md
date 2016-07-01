@@ -1,6 +1,8 @@
 ---
 layout: post
 published: true
+tags:
+  - apples
 ---
 ## A New Post
 
