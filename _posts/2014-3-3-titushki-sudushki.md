@@ -31,4 +31,4 @@ PROSEIO TEST
 
 <div class="fb-comments" data-href="http://blog.prosud.info/titushki-sudushki/" data-numposts="5"></div>
 
-![CmTsZpFWcAAbwrH.jpg]({{site.baseurl}}/_posts/CmTsZpFWcAAbwrH.jpg)
+![]({{site.baseurl}}/http://minionomaniya.ru/wp-content/uploads/2015/10/%D0%BC%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D1%8B-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-%D0%B2-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%BC-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5.jpg)
