@@ -30,3 +30,5 @@ PROSEIO TEST
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="fb-comments" data-href="http://blog.prosud.info/titushki-sudushki/" data-numposts="5"></div>
+
+![CmTsZpFWcAAbwrH.jpg]({{site.baseurl}}/_posts/CmTsZpFWcAAbwrH.jpg)
