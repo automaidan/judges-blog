@@ -4,4 +4,4 @@ published: false
 ---
 ## Частина 1. Сокуренко Дмитро Михайлович.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+23 квітня 2014р. Указом в.о. Президента України Турчинова з апеляційного суду Донецької області до апеляційного суду міста Києва було переведено суддю Сокуренка Дмитра Михайловича.
