@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 ## Частина 1. Сокуренко Дмитро Михайлович.
 
