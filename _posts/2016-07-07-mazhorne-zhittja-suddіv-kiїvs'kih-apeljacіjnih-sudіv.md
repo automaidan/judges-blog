@@ -24,7 +24,8 @@ published: true
  
 У своїй [декларації за 2014р.](http://unshred.it/static/declarations/chosen_ones/mega_batch/sokurenko_dmytro_mykhailovych.pdf) Дмитро Михайлович вказав 360тис.грн. доходу, з яких 272тис.грн. - заробітна плата. Дохід дружини - майже 120тис.грн., з яких заробітна плата - 120тис.грн. Виходить, що родина пана Сокуренка живе, практично, на одну заробітну плату :)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fautomaidan%2Fposts%2F1154486417896038&amp;width=400" width="400" height="660" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+![12804624_945843405498827_898922401482169977_n.jpg]({{site.baseurl}}/_posts/12804624_945843405498827_898922401482169977_n.jpg)
+
 
 ![_config.yml]({{ site.baseurl }}/images/logo.png)
 
